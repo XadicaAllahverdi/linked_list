@@ -1,5 +1,7 @@
 # linked_list
-JavaScript Linked List algorithm examples
+JavaScript Linked List algorithm examples of leetcode:
+https://leetcode.com/problems/linked-list-cycle/description/
+![141. Linked List Cycle](image.png)
 
 Writing code for a linked list involves implementing a data structure that consists of a sequence of nodes, where each node contains a value and a reference (or pointer) to the next node in the list. Linked lists are a fundamental data structure used in computer science and programming for efficient storage and manipulation of data.
 
